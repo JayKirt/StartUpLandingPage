@@ -4,4 +4,5 @@
 
 <ul>
   <li> background image responsive. ✔️</li>
+  <li> Text centred and responsive. ✔️</li>
 </ul>
