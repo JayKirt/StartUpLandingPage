@@ -3,6 +3,6 @@
 <p> As part of the udemy ZTM course. </p>
 
 <ul>
-  <li> background image responsive. ✔️</li>
+  <li> Background image responsive. ✔️</li>
   <li> Text centred and responsive. ✔️</li>
 </ul>
