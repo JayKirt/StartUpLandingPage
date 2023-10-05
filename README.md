@@ -5,4 +5,6 @@
 <ul>
   <li> Background image responsive. ✔️</li>
   <li> Text centred and responsive. ✔️</li>
+  <li> Button working, centred and responsive. ✔️</li>
+  
 </ul>
