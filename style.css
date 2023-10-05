@@ -27,6 +27,11 @@ hr {
   height: 10rem;
 }
 
+a {
+ text-decoration:none;
+ color: black;
+}
+
 
 
 .btn {
